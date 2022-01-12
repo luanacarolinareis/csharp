@@ -1,0 +1,15 @@
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\M01A02C.exe
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\M01A02C.deps.json
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\M01A02C.runtimeconfig.json
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\M01A02C.dll
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\ref\M01A02C.dll
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\bin\Debug\net6.0\M01A02C.pdb
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.AssemblyInfo.cs
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.dll
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\ref\M01A02C.dll
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.pdb
+C:\Users\carol\source\repos\AmbienteM01\M01A02C\obj\Debug\net6.0\M01A02C.genruntimeconfig.cache

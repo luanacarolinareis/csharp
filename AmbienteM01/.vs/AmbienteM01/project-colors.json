@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25ef2ca0-aacc-4d8e-a4c1-f26732eb324b": {
+      "ProjectGuid": "25ef2ca0-aacc-4d8e-a4c1-f26732eb324b",
+      "DisplayName": "Teste1",
+      "ColorIndex": 0
+    },
+    "a8d43e52-44bd-4400-a936-c2b5f36d5849": {
+      "ProjectGuid": "a8d43e52-44bd-4400-a936-c2b5f36d5849",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    },
+    "e1fcb180-aea0-4fac-b40b-1705b37f09cb": {
+      "ProjectGuid": "e1fcb180-aea0-4fac-b40b-1705b37f09cb",
+      "DisplayName": "M01A02A",
+      "ColorIndex": 2
+    },
+    "8d706124-cd68-4841-b309-f9e7eaa2e4e1": {
+      "ProjectGuid": "8d706124-cd68-4841-b309-f9e7eaa2e4e1",
+      "DisplayName": "M01A02B",
+      "ColorIndex": 3
+    },
+    "30d8b8ee-f66f-4dcf-88a5-56669c9fa6c9": {
+      "ProjectGuid": "30d8b8ee-f66f-4dcf-88a5-56669c9fa6c9",
+      "DisplayName": "M01A02C",
+      "ColorIndex": 4
+    },
+    "3b7d26d0-067c-4d60-86e5-31a777e47fa7": {
+      "ProjectGuid": "3b7d26d0-067c-4d60-86e5-31a777e47fa7",
+      "DisplayName": "M01A02D",
+      "ColorIndex": 5
+    },
+    "a5affaa1-5a4b-4fa3-a178-3db38204781b": {
+      "ProjectGuid": "a5affaa1-5a4b-4fa3-a178-3db38204781b",
+      "DisplayName": "M01A02E",
+      "ColorIndex": 6
+    },
+    "87962cb9-0d7a-40d5-a998-13cb9c32807a": {
+      "ProjectGuid": "87962cb9-0d7a-40d5-a998-13cb9c32807a",
+      "DisplayName": "M01A07",
+      "ColorIndex": 7
+    },
+    "be7fc297-d11a-4f15-bac7-4d0abd976ee1": {
+      "ProjectGuid": "be7fc297-d11a-4f15-bac7-4d0abd976ee1",
+      "DisplayName": "M01A06",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
