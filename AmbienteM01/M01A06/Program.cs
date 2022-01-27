@@ -4,7 +4,7 @@ const short NUM = 21; // CONSTANT (CANNOT CHANGE THE VALUE: ERROR!)
 const string SCHOOL = "Estudonauta";
 const float PI = 3.1416f;
 
-// school = "CursoEmVídeo" (NOT POSSIBLE, CAUSE "school" IS A CONSTANT)
+// SCHOOL = "CursoEmVídeo" (NOT POSSIBLE, CAUSE "school" IS A CONSTANT)
 
 Console.WriteLine("I study in " + SCHOOL + ".");
 Console.WriteLine("The value of Pi is " + PI + '.');

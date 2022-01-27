@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carol\\source\\repos\\AmbienteM01\\M01A07\\M01A07.csproj": {}
+    "C:\\Users\\carol\\OneDrive\\Documentos\\GitHub\\csharp\\AmbienteM01\\M01A07\\M01A07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carol\\source\\repos\\AmbienteM01\\M01A07\\M01A07.csproj": {
+    "C:\\Users\\carol\\OneDrive\\Documentos\\GitHub\\csharp\\AmbienteM01\\M01A07\\M01A07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carol\\source\\repos\\AmbienteM01\\M01A07\\M01A07.csproj",
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Documentos\\GitHub\\csharp\\AmbienteM01\\M01A07\\M01A07.csproj",
         "projectName": "M01A07",
-        "projectPath": "C:\\Users\\carol\\source\\repos\\AmbienteM01\\M01A07\\M01A07.csproj",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Documentos\\GitHub\\csharp\\AmbienteM01\\M01A07\\M01A07.csproj",
         "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carol\\source\\repos\\AmbienteM01\\M01A07\\obj\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Documentos\\GitHub\\csharp\\AmbienteM01\\M01A07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
